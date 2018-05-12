@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6368
     wikipedia: http://en.wikipedia.org/wiki/Zora_Neale_Hurston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17187#Three-PlaysLawing-and-Jawing--Forty-Yards--Woofing
 gutenberg_issued: '2005-11-29'
 gutenberg_type: Text
 identifiers:
